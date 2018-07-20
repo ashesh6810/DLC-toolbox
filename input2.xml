@@ -1,0 +1,14 @@
+<states version="1.0">
+    
+    <filename_grid>/Users/ashes/Development/clustering/ExtremeEvents/Z500</filename_grid>
+    <nC>4</nC>
+    <filename_Z500>/Users/ashes/Development/clustering/ExtremeEvents/Z500</filename_Z500>
+    <lat_north_index>96</lat_north_index>
+    <lat_south_index>31</lat_south_index>
+    <lon_west_index>157</lon_west_index>
+    <lon_east_index>253</lon_east_index>
+    <ensembles>1</ensembles>
+    <cluster_number>4</cluster_number>
+    <nEOF>22</nEOF>
+    <samples>10</samples>     
+</states> 
